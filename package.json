@@ -1,0 +1,13 @@
+{
+  "name": "on_tap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cau_1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
